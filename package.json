@@ -11,6 +11,7 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "@babel/runtime": "^7.12.13",
     "bookshelf": "^1.2.0",
     "knex": "^0.21.17",
     "pg": "^8.5.1",
